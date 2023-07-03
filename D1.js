@@ -81,7 +81,7 @@ console.log("esercizio 4 = ", x);
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 name = "Baiocco";
-console.log("esercizio 5 = ", name, "il valore const lo messo alla fine altrimenti dava errore e fermava il codice");
+console.log("esercizio 5 = ", name, " , il valore const lo messo alla fine altrimenti dava errore e fermava il codice");
 //il valore const lo messo alla fine
 
 /* ESERCIZIO 6
