@@ -12,7 +12,7 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-window.alert("i principali datatype di JS sono Int(o integer), float , boolean , string.");
+window.alert("i principali datatype di JS sono Int(o integer), float , boolean , string , null, undefined.");
 window.alert(
   "per datatype tipo int (o integer) si intende un numero intero (senza virgola) come ad esempio 10 , 6 o 8; "
 );
@@ -26,6 +26,8 @@ window.alert(
 window.alert(
   "per datatype tipo boolean si intende un valore che può essere falso o vero ma attenzione non è considerato come stringa"
 );
+window.alert("per datatype null si intende un valore non esistente");
+window.alert("per datatype undefined si intende un valore che non è stato definito nel codice");
 console.log("i principali datatype di JS sono Int(o integer), float , boolean , string.");
 console.log(
   "per datatype tipo int (o integer) si intende un numero intero (senza virgola) come ad esempio 10 , 6 o 8; "
@@ -40,6 +42,9 @@ console.log(
 console.log(
   "per datatype tipo boolean si intende un valore che può essere falso o vero ma attenzione non è considerato come stringa"
 );
+console.log("per datatype null si intende un valore non esistente");
+console.log("per datatype undefined si intende un valore che non è stato definito nel codice");
+
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
