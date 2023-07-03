@@ -16,6 +16,7 @@ window.alert("i principali datatype di JS sono Int(o integer), float , boolean ,
 window.alert(
   "per datatype tipo int (o integer) si intende un numero intero (senza virgola) come ad esempio 10 , 6 o 8; "
 );
+
 window.alert(
   "per datatype tipo float si può intendere sia un numero intero sia un numero con la virgola ad esempio 6.15 , 3.98 o un semplice 8"
 );
@@ -23,15 +24,20 @@ window.alert(
 window.alert(
   "esercizio 1 :per database di tipo string si intende una parola, lettera o frase ma per essere riconosciuto dal codice come dato di tipo string deve essere circondato dalle virgolette"
 );
+
 window.alert(
   "per datatype tipo boolean si intende un valore che può essere falso o vero ma attenzione non è considerato come stringa"
 );
 window.alert("per datatype null si intende un valore non esistente");
+
 window.alert("per datatype undefined si intende un valore che non è stato definito nel codice");
-console.log("i principali datatype di JS sono Int(o integer), float , boolean , string.");
+
+console.log("i principali datatype di JS sono Int(o integer), float , boolean , string , null, undefined.");
+
 console.log(
   "per datatype tipo int (o integer) si intende un numero intero (senza virgola) come ad esempio 10 , 6 o 8; "
 );
+
 console.log(
   "per datatype tipo float si può intendere sia un numero intero sia un numero con la virgola ad esempio 6.15 , 3.98 o un semplice 8"
 );
@@ -39,10 +45,13 @@ console.log(
 console.log(
   "per database di tipo string si intende una parola, lettera o frase ma per essere riconosciuto dal codice come dato di tipo string deve essere circondato dalle virgolette"
 );
+
 console.log(
   "per datatype tipo boolean si intende un valore che può essere falso o vero ma attenzione non è considerato come stringa"
 );
+
 console.log("per datatype null si intende un valore non esistente");
+
 console.log("per datatype undefined si intende un valore che non è stato definito nel codice");
 
 /* ESERCIZIO 2
