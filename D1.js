@@ -108,10 +108,7 @@ console.log("esercizio 7, name1 e name2 sono uguali ", name1 === name2);
 
 //extra
 
-name1 = "John";
-name2 = "John";
-window.alert(name1 === name2);
-console.log("EXTRA , adesso sono uguali ", name1 === name2);
+console.log("EXTRA , adesso sono uguali ", name1 === name2.toLowerCase());
 
 //const
 const y = 15;
