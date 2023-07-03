@@ -120,6 +120,7 @@ console.log("esercizio 7, name1 e name2 sono uguali ", name1 === name2);
 console.log("EXTRA , adesso sono uguali ", name1 === name2.toLowerCase());
 
 //const
+
 const y = 15;
 y = 32;
 console.log("esercizio 5 = ", y);
